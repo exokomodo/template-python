@@ -2,7 +2,7 @@ click==8.4.2
 h11==0.16.0
 markdown-it-py==4.2.0
 mdurl==0.1.2
-Pygments==2.19.2
+Pygments==2.20.0
 rich==14.3.3
 shellingham==1.5.4
 typer==0.24.1
